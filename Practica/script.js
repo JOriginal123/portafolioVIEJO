@@ -8,6 +8,6 @@ function guardar(){
     let nombre= document.getElementById("generoF").value;    
     
     alert(nombre);
-    document.write(apellido)
+    document.write(apellido) 
     document.getElementById("mensaje").innerHTML=apellido
 }
